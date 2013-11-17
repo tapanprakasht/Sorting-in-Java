@@ -1,0 +1,8 @@
+This repositary contain various sorting programs in Java.
+Sorting programs include 
+ * Selction sort
+ * Bubble sort
+ * Insertion sort
+ * Quick sort
+ * Merge sort
+Sorting of both strings and numbers are included.
